@@ -11,5 +11,6 @@
 * Spring MVC - Spring security integration
 * Spring MVC - Profiles (dev, test, beta, prod)
 * Spring MVC - slf4j logger config
+* Spring MVC - Unit testing
 
 
